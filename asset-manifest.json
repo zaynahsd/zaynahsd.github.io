@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/zaynahsd/zaynahsd.github.io/static/css/main.1542b901.css",
-    "main.js": "/zaynahsd/zaynahsd.github.io/static/js/main.4169044e.js",
-    "index.html": "/zaynahsd/zaynahsd.github.io/index.html",
-    "main.1542b901.css.map": "/zaynahsd/zaynahsd.github.io/static/css/main.1542b901.css.map",
-    "main.4169044e.js.map": "/zaynahsd/zaynahsd.github.io/static/js/main.4169044e.js.map"
+    "main.css": "/static/css/main.1542b901.css",
+    "main.js": "/static/js/main.4169044e.js",
+    "index.html": "/index.html",
+    "main.1542b901.css.map": "/static/css/main.1542b901.css.map",
+    "main.4169044e.js.map": "/static/js/main.4169044e.js.map"
   },
   "entrypoints": [
     "static/css/main.1542b901.css",
